@@ -4,7 +4,7 @@ const logo = document.getElementById('logo');
 const newsContainer1 = document.getElementById('top-news-container1');
 const newsContainer2 = document.getElementById('top-news-container2');
 const categoryContainer = document.getElementById('category-container');
-const apiKey = '818755c6423d41dd943d7058fa715faa';
+const apiKey = '<Enter your API Key>';
 const constUrl = `https://newsapi.org/v2/top-headlines?country=in&pageSize=10&apiKey=${apiKey}`;
 const inputKeyword = document.getElementById('inputKeyword');
 const submitKeyword = document.getElementById('submitKeyword');
