@@ -53,4 +53,4 @@ The Informer Network is a dynamic web application designed to keep users in rhyt
 - **Real-time Updates:** Implement real-time news updates using WebSockets.
 
 
-Stay informed with The Informer Network!
+### Stay informed with The Informer Network!
