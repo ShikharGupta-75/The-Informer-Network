@@ -11,6 +11,14 @@ The Informer Network is a dynamic web application designed to keep users in rhyt
 - **Interactive UI:** An intuitive and responsive user interface built with Bootstrap 4, ensuring a seamless experience across different devices.
 - **News Details:** Each news item includes an image, title, description, publication date, and a "Read More" link to the full article.
 
+## **Preview**
+
+### PC View
+![PC View](screenshots/pc-view.png)
+
+### Phone View
+![Phone View](screenshots/phone-view.png)
+
 ## **Technology Stack**
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap 4
@@ -30,21 +38,18 @@ The Informer Network is a dynamic web application designed to keep users in rhyt
 ### Setup
 
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/the-informer-network.git
-    ```
-2. **Navigate to the project directory:**
-    ```bash
-    cd the-informer-network
-    ```
-3. **Add your NewsAPI key:**
+   
+2. **Add your NewsAPI key:**
     - Open `script.js` in a text editor.
     - Replace `<ENTER YOUR API KEY>` with your actual NewsAPI key:
     ```javascript
     const apiKey = '<ENTER YOUR API KEY>';
     ```
-4. **Open `index.html` in your preferred web browser:**
-    - You can do this by simply double-clicking the `index.html` file or by opening it from your browser's file menu.
+3. **Open `index.html` in your preferred web browser:**
+    - Open `index.html` in your code-editor (try using VS-code with extension live-server installed).
+    -  Run (Go-live in VS-code) the html file to enjoy the latest news.
+
+**Note : ** Don't run `index.html` directly from your file manager; go through the steps to properly enjoy lastest news.
 
 ## **Future Enhancements**
 
